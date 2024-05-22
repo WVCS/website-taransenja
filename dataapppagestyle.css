@@ -1,0 +1,24 @@
+nav{
+  list-style-type: none;
+  position: fixed;
+  background-color: blue;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 10px;
+  color:white;
+}
+
+li {
+  display: inline;
+  padding: 8px;
+
+
+  }
+  a{
+    color: white
+}
+  li:hover {
+    background-color: yellow
+  }
+  
