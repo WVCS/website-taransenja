@@ -37,4 +37,6 @@ li {
 body {
   background-color: lightgrey;
 }
+h1:hover {
+  color: red;
 </css>
